@@ -1,0 +1,61 @@
+*.db
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# dependencies
+/node_modules
+
+# Environments
+.env
+.env.local
+.env.production
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Office temporary files
+~$*.doc*
+~$*.xls*
+~$*.ppt*
+*.~vsd*
+*.tmp
+
+# Excel backup files
+*.xlk
+
+# Excel temporary files
+~$*.xlsx
+~$*.xlsm
+~$*.xlsb
+~$*.xltx
+~$*.xltm
+
+# Word temporary files
+~$*.docx
+~$*.dotx
+~$*.docm
+~$*.dotm
+
+# PowerPoint temporary files
+~$*.pptx
+~$*.potx
+~$*.ppsx
+~$*.pptm
+~$*.potm
+~$*.ppsm
+
+# MacOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._MBCLScratch
+._TeamSpaces*
+.Trashes
+ehthumbs.db
+Thumbs.db
